@@ -15,7 +15,7 @@ for x in range(200):
         t.forward(x)
         t.left(59)
 turtle.done()
-t.speed(5000)
+t.speed(50000)
 turtle.bgcolor('black')
 for x in range(200):
         t.pencolor(colors[x%6])
