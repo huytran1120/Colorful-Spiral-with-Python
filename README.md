@@ -1,3 +1,3 @@
 #  Colorful Spiral with Python
  let me show
-![Alt text](image.png)
+![Alt text](image-1.png)
